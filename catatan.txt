@@ -1,0 +1,6 @@
+untuk transaksi antar komponen jika data sedikit  butuh variable binding di komponen penerima, di komponen pengirim boleh pakai state , jika dalam satu komponen cukup pakai state
+
+
+observedObject -> digunakan untuk simpan data secara global tp yg reusable ( di komponen lain dan tidak semua komponen pakai ex . data setch api)
+
+envoronment object -> di gunakan menyimpan data yg semua butuh ex. session login 
